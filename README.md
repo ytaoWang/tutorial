@@ -1,2 +1,2 @@
 # tutorial
-all of snipped code
+all of snipped algorithm code
